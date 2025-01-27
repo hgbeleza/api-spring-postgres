@@ -27,7 +27,7 @@ Antes de começar, você precisa ter as seguintes ferramentas instaladas:
 Clone este repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/api-spring-postgres.git
+git clone https://github.com/hgbeleza/api-spring-postgres.git
 cd api-spring-postgres
 ```
 
